@@ -1,0 +1,284 @@
+body{
+	background-color:rgb(226, 220, 220) !important;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important
+}
+.table td{
+	font-size: 1.0em;
+	text-transform: uppercase;
+
+}
+
+.menutp ul{
+	float: right;
+}
+.menutp li{
+	margin-left:20px; 
+	float: right;
+	margin-top:20px; 
+	float: left;
+	list-style: none;
+	color:white
+}
+.menutp{
+	
+	background-color:seagreen !important;
+
+}
+
+.menuLt{
+
+	background-color:rgb(226, 220, 220) !important;
+	
+
+
+}
+
+
+.menuL a{
+	float: left;
+	margin-top: 15px;
+	margin-left:20px;
+	text-decoration: none;
+	
+
+}
+.menuL a:focus, a:active{
+	color:blue !important;
+
+}
+
+.menuL a:link{
+	text-decoration: none;
+	color: white
+}
+.menuL a:visited{
+	text-decoration: none;
+	color: white
+}
+
+.icon{
+	margin-left:auto;
+	height: 50px;
+}
+
+
+.logo img{
+	margin-left: 20%;
+	border-radius:20px;
+	padding: 10px;
+}
+.title{
+	font-weight: bold;
+	color:rgba(100,120,200, 1);
+	font-size: 2.0em;
+	text-align: center;
+}
+.title3{
+	font-weight: bold;
+	color:white;
+	font-size: 2.0em;
+	text-align: center;
+	margin-top: 3%
+}
+.title2{
+		font-weight: bold;
+	color:rgba(255,255,255, 1);
+	font-size: 2.0em;
+	text-align: center;
+}
+
+.corpo{
+		margin-top:10px; 
+		background-color:rgb(226, 220, 220)
+	
+
+}
+.soft{
+	width:100%;
+	
+}
+.list{
+	font-size: 1.5em;color:rgba(82,113,255,1);font-weight: bold
+}
+.corpo2{
+
+margin-top: 2%;
+	width: 100%;
+	background-image: linear-gradient(to bottom,  rgba(113,113,255,1),rgba(255,255,255,0.0) );	
+
+}
+.corpo3{
+
+margin-top: 4%;
+	width: 100%;
+		
+
+}
+.corpo4{
+	margin-top: 4%;
+	background-image: linear-gradient(to top,  rgba(113,113,255,1),rgba(255,255,255,0.0) );	
+}
+.convert{
+	background-color: rgba(233,233,233, 0.5);
+	box-shadow: 5px 5px 20px 5px; 
+
+}
+.cupom{
+	padding: 20px;
+}
+.topo{
+	background-color: rgba(233,233,233, 0.5);
+	height: 150px;
+	width: 100%;
+	
+}
+.discr{
+	font-size: 1.2em;
+	padding: 20px
+}
+.checks{
+	list-style: none;
+	
+}
+.checks2{
+	float: right;
+	list-style: none;
+}
+.planos{
+	background-color: rgba(82,113,144,0.4);
+	padding: 10px;
+	border-radius: 10px;
+	margin-left: 6%;
+	box-shadow: 2px 2px 10px 1px;
+	margin-bottom: 3%;
+	
+}
+.ulfot{
+	list-style: none;
+	color:white;
+	
+	font-size: 1.2em
+}
+.modal-header{
+background-color:Seagreen;
+color:white;
+font-family: comic sans-serif;
+text-transform: uppercase;
+
+}
+.modal-body{
+	margin: auto;
+	background-color:rgb(226, 220, 220) !important;
+	color:black;
+	font-family: 'Gill Sans';
+	text-transform: uppercase;
+
+}
+.modal-content{
+	margin: auto;
+	background-color:rgb(226, 220, 220) !important;
+
+}
+
+.modal-footer{
+	margin: auto;
+	width:100%;
+	background-color:rgba(100,120,200, 1);
+
+}
+footer{
+	background-color: rgba(5,5,15,0.7)
+}
+.cop {
+background-color: rgba(5,5,15,0.7);
+width: 100%;	
+}
+.menu li, .menu li a{
+	color:black;
+	list-style: none;
+	float: left;
+	padding: 10px;
+	font-size: 1.1em;
+	font-weight: bold
+}
+.menuL{
+	background-color: rgb(73, 77, 75);
+	height: 600px;
+	
+}
+.menuli{
+	list-style: none;
+}
+
+footer{
+	background-color: rgb(73, 77, 75);
+	width: 100%;
+	height: 50px;
+	color:white
+}
+
+#tableProdutos{
+	border-radius:10px !important;
+	position: fixed;
+	right: 0;
+	margin-right:10px;
+	top:20;
+	width:600px !important
+	
+}
+.transacaoClient{
+	border:double 4px OldLace  ;
+	text-transform: uppercase;
+	border-radius:5px;
+	margin-bottom:10px;
+	float: left;
+	padding:10px;
+	height: 60px;
+	background-color:MediumSeaGreen ;
+	color:white
+}
+
+.transacaoClient strong{
+	font-size:12px;
+	background-color:Gainsboro 	;
+	border-radius:3px;
+	margin-left:5px;
+	padding:8px;
+	color:black;
+	border:2px solid black
+}
+.cartClient{
+	border:double 4px OldLace  ;
+	text-transform: uppercase;
+	border-radius:5px;
+	margin-bottom:10px;
+	float: left;
+	padding:10px;
+	height: 60px;
+	background-color:MediumSeaGreen ;
+	color:white
+}
+
+.cartClient strong{
+	font-size:15px;
+	background-color:Gainsboro 	;
+	border-radius:3px;
+	margin-left:10px;
+	margin-right:10px;
+	padding:5px;
+	color:black;
+	border:2px solid black;
+	float: left;
+}
+.but{
+	margin-left:10px !important
+}
+#fast{
+	padding:30px;
+	text-align: center;
+	text-transform: uppercase
+}
+#fast input{
+	width: 400px;
+	
+}
